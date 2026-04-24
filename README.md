@@ -1,2 +1,7 @@
-# demo-odontologia-especializada-dr-tadeo
-Demo web para ODONTOLOGIA ESPECIALIZADA DR.TADEO — diseñada por eterlab.
+# ODONTOLOGIA ESPECIALIZADA DR.TADEO
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
